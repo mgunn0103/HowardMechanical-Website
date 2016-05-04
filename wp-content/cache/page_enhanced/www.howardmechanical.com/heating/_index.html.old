@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8) ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Heating | Howard Mechanical</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.howardmechanical.com/xmlrpc.php">
+
+    <link rel="stylesheet" href="http://www.lab211.com/howardmechanical/test/wp-content/themes/realto/realto/flexSlider/flexslider.css" type="text/css" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+	<script src="http://www.lab211.com/howardmechanical/test/wp-content/themes/realto/realto/flexSlider/jquery.flexslider.js"></script>
+
+	<!-- Place in the <head>, after the three links -->
+	<script type="text/javascript" charset="utf-8">
+  		$(window).load(function() {
+    		$('.flexslider').flexslider({
+				animation:"slide"
+			});
+  		});
+	</script>
+    
+        <!-- Favicon and touch icons  -->
+    <link href="http://www.howardmechanical.com/wp-content/themes/realto/ico/apple-touch-icon-144-precomposed.png?fc3f97" rel="apple-touch-icon-precomposed" sizes="144x144">
+    <link href="http://www.howardmechanical.com/wp-content/uploads/2014/03/favicon.png?fc3f97" rel="shortcut icon">
+
+	<!--[if lt IE 9]>
+	<script src="http://www.howardmechanical.com/wp-content/themes/realto/js/html5.js?fc3f97"></script>
+	<![endif]-->
+    <script src="http://maps.google.com/maps/api/js?sensor=true" type="text/javascript"></script>
+    <script type="text/javascript" src="http://www.lab211.com/howardmechanical/test/wp-content/themes/realto/realto/cform.js"></script>
+
+	<link rel="alternate" type="application/rss+xml" title="Howard Mechanical &raquo; Feed" href="http://www.howardmechanical.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Howard Mechanical &raquo; Comments Feed" href="http://www.howardmechanical.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Howard Mechanical &raquo; Heating Comments Feed" href="http://www.howardmechanical.com/heating/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.howardmechanical.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=2169d7866f48aea2e9b46233d33fb8e2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href="http://www.howardmechanical.com/wp-content/plugins/contact-form-7/includes/css/styles.css?fc3f97" type='text/css' media='all' />
+<link rel='stylesheet' id='easy_testimonial_style-css'  href="http://www.howardmechanical.com/wp-content/plugins/easy-testimonials/include/css/style.css?fc3f97" type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href="http://www.howardmechanical.com/wp-content/plugins/revslider/rs-plugin/css/settings.css?fc3f97" type='text/css' media='all' />
+<link rel='stylesheet' id='nt-bootstrap-css'  href="http://www.howardmechanical.com/wp-content/themes/realto/css/bootstrap.css?fc3f97" type='text/css' media='all' />
+<link rel='stylesheet' id='nt-bootstrap-responsive-css'  href="http://www.howardmechanical.com/wp-content/themes/realto/css/bootstrap-responsive.css?fc3f97" type='text/css' media='all' />
+<link rel='stylesheet' id='nt-font-awesome.min-css'  href="http://www.howardmechanical.com/wp-content/themes/realto/css/font-awesome.min.css?fc3f97" type='text/css' media='all' />
+<link rel='stylesheet' id='nt-colors-css'  href="http://www.howardmechanical.com/wp-content/themes/realto/css/colors.css?fc3f97" type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href="http://www.howardmechanical.com/wp-content/themes/realto/style.css?fc3f97" type='text/css' media='all' />
+<script type='text/javascript' src="http://www.howardmechanical.com/wp-includes/js/jquery/jquery.js?fc3f97"></script>
+<script type='text/javascript' src="http://www.howardmechanical.com/wp-includes/js/jquery/jquery-migrate.min.js?fc3f97"></script>
+<script type='text/javascript' src="http://www.howardmechanical.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?fc3f97"></script>
+<script type='text/javascript' src="http://www.howardmechanical.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?fc3f97"></script>
+<script type='text/javascript' src="http://www.howardmechanical.com/wp-content/themes/realto/js/jquery.gomap-1.3.2.min.js?fc3f97"></script>
+<link rel='https://api.w.org/' href='http://www.howardmechanical.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.howardmechanical.com/xmlrpc.php?rsd" />
+
+<link rel="canonical" href="http://www.howardmechanical.com/heating/" />
+<link rel='shortlink' href='http://www.howardmechanical.com/?p=757' />
+<link rel="alternate" type="application/json+oembed" href="http://www.howardmechanical.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.howardmechanical.com%2Fheating%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.howardmechanical.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.howardmechanical.com%2Fheating%2F&#038;format=xml" />
+<style type="text/css" media="screen"></style>		<script type="text/javascript">
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				var ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content = "";
+
+					data = {};
+					
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = 'e6bc88ff34';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"http://www.howardmechanical.com/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				};
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') {
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+						}
+					}
+				},30);
+			});
+		</script>
+		<style type="text/css">
+
+
+
+</style>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f7f7f7; }
+</style>
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.howardmechanical.com/?wordfence_logHuman=1&hid=3806D9BA51D1E9A1257599348E4B6445');
+</script>    <!--[if lt IE 9]>
+	<script src="http://www.lab211.com/howardmechanical/test/wp-content/themes/realto/realto/dest/respond.min.js"></script>
+	<![endif]-->
+        <!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+    
+
+</head>
+
+<body id="blue" class="page page-id-757 page-template page-template-realto page-template-with-sidebar page-template-realtowith-sidebar-php custom-background"<!-- begin header -->
+<header>
+    <div class="navbar navbar-inverse navbar-static-top">
+        <div class="navbar-inner">
+            <div class="container">
+                <button class="btn btn-navbar" data-target=".nav-collapse" data-toggle="collapse" type="button">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <!--<div class="nav-collapse collapse">-->
+                						
+					<div class="nav-collapse collapse"><ul id="menu-top-menu" class="nav"><li class="m-manage"><a href="http://www.howardmechanical.com/" title="Home"><i class="icon-home"></i></a></li><li id="nav-menu-item-540" class="main-menu-item  menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.howardmechanical.com/page-with-sidebar/">About Howard Mechanical</a></li>
+<li id="nav-menu-item-762" class="main-menu-item  menu-item-depth-0  active"><a href="http://www.howardmechanical.com/heating/">Heating</a></li>
+<li id="nav-menu-item-777" class="main-menu-item  menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.howardmechanical.com/cooling/">Cooling</a></li>
+<li id="nav-menu-item-794" class="main-menu-item  menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.howardmechanical.com/air-quality-control/">Air Quality &#038; Control</a></li>
+<li id="nav-menu-item-799" class="main-menu-item  menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.howardmechanical.com/maintenance-club/">Maintenance</a></li>
+<li id="nav-menu-item-802" class="main-menu-item  menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.howardmechanical.com/commercial/">Commercial</a></li>
+<li id="nav-menu-item-543" class="main-menu-item  menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.howardmechanical.com/blog/">HVAC Tips</a></li>
+<li id="nav-menu-item-541" class="main-menu-item  menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.howardmechanical.com/contact-us/">Contact us</a></li>
+</ul></div>					
+					                    
+            </div>
+        </div>
+    </div>
+    <div id="logo-container">
+        <div class="container">
+            <div class="row">
+                <div class="span8">
+                    <a class="brand" href="http://www.howardmechanical.com/"><img src="http://www.howardmechanical.com/wp-content/uploads/2014/03/logo-250.jpg?fc3f97" alt="" /></a>
+                    <span class="tag-line hidden-phone">Prompt. Professional. Perfection </span>
+                </div>
+                <div class="span4">
+                                        <div class="phone-number pull-right">
+                    	<i class="icon-phone"></i> 
+							Call Us: 
+                            <strong>301-922-0524</strong>
+                       </div><!--/phone-number-->
+                                     </div>
+            </div>
+        </div>
+    </div>
+    <!-- #logo-container -->
+</header>  
+<!-- end header -->
+<div class="container page-content">
+        <div class="row">
+            <div class="span8">
+                <div class="box-container">
+                    <div class="padding30">
+                    
+					                         
+                        	<h2 class="page-title">Heating</h2>
+                            
+                            <p><a href="http://www.lab211.com/howardmechanical/test/wp-content/uploads/2014/04/heating-header.jpg"><img class="alignnone size-full wp-image-843" alt="heating-header" src="http://www.lab211.com/howardmechanical/test/wp-content/uploads/2014/04/heating-header.jpg" width="710" height="227" /></a></p>
+<p>Howard Mechanical strives to offer the highest quality of professionalism, timeliness, and heating service for every valued customer. From furnace and boiler repair to new heating system installation, our experts can handle any job. We’re available 24/7 for emergency heating repair in case your furnace, boiler, or heat pump breaks down in the middle of the night. We offer a 100% Satisfaction Guarantee and Lifetime Workmanship Warranty on all the work that we do so you can have confidence that you’re getting quality services.</p>
+<h3>Installation and Replacement</h3>
+<p><img class="alignright size-medium wp-image-841" alt="boiler" src="http://www.lab211.com/howardmechanical/test/wp-content/uploads/2014/04/boiler-300x300.jpg" width="300" height="300" style="padding: 5px; border: 1px solid #ccc;" srcset="http://www.howardmechanical.com/wp-content/uploads/2014/04/boiler-150x150.jpg 150w, http://www.howardmechanical.com/wp-content/uploads/2014/04/boiler-300x300.jpg 300w, http://www.howardmechanical.com/wp-content/uploads/2014/04/boiler-50x50.jpg 50w, http://www.howardmechanical.com/wp-content/uploads/2014/04/boiler.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /><br />
+<strong>Furnace</strong><br />
+The furnace is one of the most popular heating systems in the country. Furnaces provide efficient and comfortable heating and they tend to last for a very long time. But like everything else, they will eventually break down and need to be replaced. Contact Howard Mechanical today if your furnace needs to be replaced or if you’re moving into a new home and would like to have a brand new furnace installed.</p>
+<p><strong>Boilers</strong><br />
+Whether your boiler needs are large or small, commercial or residential, Howard Mechanical technicians provide the expert guidance and service needed to ensure there is steady, reliable heat in your home year after year. We speicialize in all hydronic heating systems and radiant heating components and controls. If your looking for custom radiant floors or simply replacing that old relialble steam heating system in your home, we have the extensive experience in which you can trust.</p>
+<p><strong>Heat Pump</strong><br />
+Howard Mechanical offers heat pump installation and replacement specialists that you can trust to get the job done right. Call us today, we are eager to help save you energy by installing a new heat pump in your home.</p>
+<h3>Repair</h3>
+<p><img src="http://www.lab211.com/howardmechanical/test/wp-content/uploads/2014/04/heating-repair-inline-300x300.jpg" alt="heating-repair-inline" width="250" height="250" class="alignleft size-medium wp-image-850" style="padding: 2px; border: 1px solid #ccc;" srcset="http://www.howardmechanical.com/wp-content/uploads/2014/04/heating-repair-inline-150x150.jpg 150w, http://www.howardmechanical.com/wp-content/uploads/2014/04/heating-repair-inline-300x300.jpg 300w, http://www.howardmechanical.com/wp-content/uploads/2014/04/heating-repair-inline-50x50.jpg 50w, http://www.howardmechanical.com/wp-content/uploads/2014/04/heating-repair-inline.jpg 640w" sizes="(max-width: 250px) 100vw, 250px" /><br />
+Like many electrical appliances, your internal heating system might need repair or replacement after continual use. You may rely on your home or office furnace or boiler more than you realize and you’ll want to avoid a breakdown during a frigid Midwest winter which may cut off your heat supply, not to mention the danger this can cause to you and your family if not addressed immediately. Schedule routine heater maintenance, such as a furnace or boiler cleaning, to prevent future problems and prolong replacement, which can also save money in the long-run.</p>
+<h3 style="clear:both">Preventive Furnace Maintenance and Warranty</h3>
+<p><img class="alignright  wp-image-765" style="padding: 5px; border: 1px solid #ccc;" alt="maintenance" src="http://www.lab211.com/howardmechanical/test/wp-content/uploads/2014/04/maintenance1-300x300.jpg" width="150" height="150" srcset="http://www.howardmechanical.com/wp-content/uploads/2014/04/maintenance1-150x150.jpg 150w, http://www.howardmechanical.com/wp-content/uploads/2014/04/maintenance1-300x300.jpg 300w, http://www.howardmechanical.com/wp-content/uploads/2014/04/maintenance1-50x50.jpg 50w, http://www.howardmechanical.com/wp-content/uploads/2014/04/maintenance1.jpg 320w" sizes="(max-width: 150px) 100vw, 150px" /></p>
+<p>After significant use, a furnace may need repair or replacement and it may still be under warranty, which can save you money. However, to benefit from a warranty, manufacturers will often require proof that care was taken to keep it working and in good shape – just another reason why preventative furnace maintenance is important.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+                     
+					                         
+                    </div>
+                </div>
+            </div>
+            <!-- .span8 -->
+            <div class="span4 widget">
+                
+                <div class="con-sidebar">
+		
+     <div id="custom_cf7-2" class="box-container widget widget_custom_cf7"><div class="padding30"><h2 class="widget-title">Request A Service Call</h2>    	<div id="cf7_form_box">
+    	    <div role="form" class="wpcf7" id="wpcf7-f579-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/heating/#wpcf7-f579-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="579" />
+<input type="hidden" name="_wpcf7_version" value="4.4.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f579-o1" />
+<input type="hidden" name="_wpnonce" value="0ebab30fd5" />
+</div>
+<p><span class="wpcf7-form-control-wrap locations"><select name="locations" class="wpcf7-form-control wpcf7-select sidebar-select" aria-invalid="false"><option value="District of Columbia">District of Columbia</option><option value="Maryland">Maryland</option><option value="Virginia">Virginia</option></select></span><br />
+<span class="wpcf7-form-control-wrap services"><select name="services" class="wpcf7-form-control wpcf7-select sidebar-select" aria-invalid="false"><option value="Furnace Heating System Install/Replacement">Furnace Heating System Install/Replacement</option><option value="Furnace Heating System Service/Repair">Furnace Heating System Service/Repair</option><option value="Central AC System Install/Replacement">Central AC System Install/Replacement</option><option value="Central AC System Service/Repair">Central AC System Service/Repair</option><option value="Boiler or Radiator System Install/Replacement">Boiler or Radiator System Install/Replacement</option><option value="Boiler or Radiator System Service/Repair">Boiler or Radiator System Service/Repair</option><option value="Water Heater Install/Replacement">Water Heater Install/Replacement</option><option value="Water Heater Service/Repair">Water Heater Service/Repair</option><option value="Heat Pump Install/Replacement">Heat Pump Install/Replacement</option><option value="Heat Pump Service/Repair">Heat Pump Service/Repair</option><option value="Thermostat Install/Replacement">Thermostat Install/Replacement</option></select></span><br />
+<span class="wpcf7-form-control-wrap fullname"><input type="text" name="fullname" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required sidebar-input" aria-required="true" aria-invalid="false" placeholder="Full Name" /></span><br />
+<span class="wpcf7-form-control-wrap phone"><input type="text" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required sidebar-input" aria-required="true" aria-invalid="false" placeholder="Phone" /></span><br />
+<span class="wpcf7-form-control-wrap email"><input type="text" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required sidebar-input" aria-required="true" aria-invalid="false" placeholder="Email" /></span><br />
+<center><input type="submit" value="Request Service" class="wpcf7-form-control wpcf7-submit btn btn-realto-form btn-large sidebar-button" /></center></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>    	    <div class="clear"></div>
+    	</div>
+        </div></div><div id="cycledtestimonialwidget-2" class="box-container widget cycledTestimonialWidget"><div class="padding30"><h2 class="widget-title"> </h2>	<div class="easy-t-slideshow-wrap easy-t-2028339988" style="width: ">
+	
+							
+		<div class="cycle-slideshow" 
+			data-cycle-fx="fadeout" 
+			data-cycle-timeout="7000"
+			data-cycle-slides="> div.testimonial_slide"
+			 data-cycle-auto-height="calc" 																	>
+		<div  class="testimonial_slide">	<div class="style-clean_style  hide_thumbs hide_title hide_date _rating hide_other  easy_t_single_testimonial" style="width: ">
+		<blockquote itemprop="review" itemscope itemtype="http://schema.org/Review" class="easy_testimonial" style="">
+					
+				
+						<div class="testimonial_body" itemprop="description">
+													<p>Everyone who worked was thorough, courteous, and very professional. Perfection</p>
+											</div>	
+				<p class="testimonial_author">
+						<cite>
+							<span class="testimonial-client" itemprop="author" style="">Robert Preston</span>
+																	</cite>
+							
+	</p>	
+		</blockquote>
+	</div>
+</div><div style="display:none;" class="testimonial_slide">	<div class="style-clean_style  hide_thumbs hide_title hide_date _rating hide_other  easy_t_single_testimonial" style="width: ">
+		<blockquote itemprop="review" itemscope itemtype="http://schema.org/Review" class="easy_testimonial" style="">
+					
+				
+						<div class="testimonial_body" itemprop="description">
+													<p>This Was The Very Best Experience I Have Ever Had With A Professional Technician. He And All The Staff Were Excellent--Knew Their Job, Worked Till The Problems Were Resolved, &amp; Acted With The Utmost Courtesy</p>
+											</div>	
+				<p class="testimonial_author">
+						<cite>
+							<span class="testimonial-client" itemprop="author" style="">Tavon Williams</span>
+																	</cite>
+							
+	</p>	
+		</blockquote>
+	</div>
+</div>		</div>
+		
+						<div class="easy-t-cycle-controls">				
+												
+		</div>	
+				
+	</div><!-- end slideshow wrap --></div></div><div id="text-4" class="box-container widget widget_text"><div class="padding30"><h2 class="widget-title">Products</h2>			<div class="textwidget"><p>Furnaces<br />
+Air Conditioners<br />
+Water Heaters<br />
+Indoor Air Quality Products<br />
+Thermostats<br />
+Heat Pumps<br />
+Insulation<br />
+Boilers<br />
+Ductless Split Systems</p>
+</div>
+		</div></div>        
+</div>                
+            </div>
+            <!-- .span4 -->
+        </div>
+        <!-- .row -->
+</div>
+
+<!-- begin footer -->
+<footer id="footer" style="background-color: #3a3a3a">
+    <div class="container">
+        <div class="row">
+            <div class="span3"><div class="footer-widget"><h3 class="widget-title">Associations</h3>			<div class="textwidget"><center><img src="http://www.howardmechanical.com/wp-content/uploads/2014/04/energy-star-172-logo.jpg?fc3f97" style="height:59px" border="0"/>
+<img src="http://www.howardmechanical.com/wp-content/uploads/2014/04/nate.png?fc3f97" style="height:59px" border="0">
+<img src="http://www.howardmechanical.com/wp-content/uploads/2014/04/phcc.png?fc3f97" style="height:59px; margin-right:10px" border="0"><br/><br/><img src="http://www.howardmechanical.com/wp-content/uploads/2014/04/AHRIlogo.gif?fc3f97" style="height:59px" border="0"></center></div>
+		</div></div>
+            <!-- .span3 -->
+            <div class="span3"><div class="footer-widget"><h3 class="widget-title">Contact Info</h3>			
+			<div class="clearfix">
+                <ul>
+                    <li class="clearfix">
+                        <i class="icon-map-marker pull-left"></i>
+                        <p class="pull-left">Serving DC, MD, and VA</p></li>
+                    <li class="clearfix">
+                        <i class="icon-phone pull-left"></i>
+                        <p class="pull-left">301-922-0524</p></li>
+                    <li class="clearfix">
+                        <i class="icon-envelope-alt pull-left"></i>
+                        <p class="pull-left"><a href="mailto:contactus@howardmechanical.com">contactus@howardmechanical.com</a></p>
+                    </li>
+                </ul>
+            </div>
+            <!-- .clearfix -->
+	</div></div>
+            <!-- .span3 -->
+            <div class="span3"><div class="footer-widget"><h3 class="widget-title">Pages</h3>		<ul>
+			<li class="page_item page-item-830"><a href="http://www.howardmechanical.com/career-oppurtunities/">Career Oppurtunities</a></li>
+<li class="page_item page-item-800"><a href="http://www.howardmechanical.com/commercial/">Commercial</a></li>
+<li class="page_item page-item-377"><a href="http://www.howardmechanical.com/">Homepage</a></li>
+<li class="page_item page-item-796"><a href="http://www.howardmechanical.com/maintenance-club/">Maintenance</a></li>
+<li class="page_item page-item-389"><a href="http://www.howardmechanical.com/page-with-sidebar/">About Howard Mechanical</a></li>
+<li class="page_item page-item-775"><a href="http://www.howardmechanical.com/cooling/">Cooling</a></li>
+<li class="page_item page-item-757 current_page_item"><a href="http://www.howardmechanical.com/heating/">Heating</a></li>
+<li class="page_item page-item-787"><a href="http://www.howardmechanical.com/air-quality-control/">Air Quality &#038; Control</a></li>
+<li class="page_item page-item-7"><a href="http://www.howardmechanical.com/blog/">Blog</a></li>
+<li class="page_item page-item-21"><a href="http://www.howardmechanical.com/contact-us/">Contact us</a></li>
+		</ul>
+		</div></div>
+            <!-- .span3 -->
+            <div class="span3"><div class="footer-widget"><h3 class="widget-title">ACCEPTED PAYMENTS</h3>			<div class="textwidget"><div style="text-align:justify">
+<img style="display:inline-block; vertical-align:center; margin-top:10px"   src="http://www.lab211.com/monument/wp-content/uploads/2014/01/visa.jpg" />
+
+<img  style="display:inline-block; vertical-align:center;margin-top:10px" src="http://www.lab211.com/monument/wp-content/uploads/2014/01/mastercard.jpg" />
+
+<img  style="display:inline-block; vertical-align:center;margin-top:10px" src="http://www.lab211.com/monument/wp-content/uploads/2014/01/discover.jpg" />
+
+<img  style="display:inline-block; vertical-align:center;margin-top:10px" src="http://www.lab211.com/monument/wp-content/uploads/2014/01/american_express.jpg" />
+</div></div>
+		</div></div>
+            
+            <!-- .span3 -->
+        </div>
+    </div>
+</footer>
+<!-- end footer -->
+		
+
+	<script type='text/javascript' src="http://www.howardmechanical.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?fc3f97"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.howardmechanical.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src="http://www.howardmechanical.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?fc3f97"></script>
+<script type='text/javascript' src="http://www.howardmechanical.com/wp-content/themes/realto/js/bootstrap.min.js?fc3f97"></script>
+<script type='text/javascript' src="http://www.howardmechanical.com/wp-content/themes/realto/js/jquery.placeholder.js?fc3f97"></script>
+<script type='text/javascript' src="http://www.howardmechanical.com/wp-content/themes/realto/js/jquery.cycle2.min.js?fc3f97"></script>
+<script type='text/javascript' src="http://www.howardmechanical.com/wp-content/themes/realto/js/custom.js?fc3f97"></script>
+<script type='text/javascript' src="http://www.howardmechanical.com/wp-includes/js/comment-reply.min.js?fc3f97"></script>
+<script type='text/javascript' src="http://www.howardmechanical.com/wp-content/plugins/easy-testimonials/include/js/jquery.cycle2.min.js?fc3f97"></script>
+<script type='text/javascript' src="http://www.howardmechanical.com/wp-includes/js/wp-embed.min.js?fc3f97"></script>
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+
+ Served from: www.howardmechanical.com @ 2016-05-03 21:43:57 by W3 Total Cache -->

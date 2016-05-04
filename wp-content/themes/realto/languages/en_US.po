@@ -1,0 +1,1361 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: realto\n"
+"POT-Creation-Date: 2014-02-27 22:37+0500\n"
+"PO-Revision-Date: 2014-02-27 22:38+0500\n"
+"Last-Translator: \n"
+"Language-Team: Fave Themes <hello@favethemes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../realto/archive.php:23 ../twentyfourteen/archive.php:31
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../realto/archive.php:26 ../twentyfourteen/archive.php:34
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../realto/archive.php:29 ../twentyfourteen/archive.php:37
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../realto/author.php:51
+msgid "About me"
+msgstr ""
+
+#: ../realto/author.php:104
+msgid "For Sale"
+msgstr ""
+
+#: ../realto/author.php:104
+msgid "For Rent"
+msgstr ""
+
+#: ../realto/category.php:20 ../twentyfourteen/category.php:20
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../realto/comments.php:34 ../realto/comments.php:53
+#: ../twentyfourteen/comments.php:35 ../twentyfourteen/comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../realto/comments.php:35 ../realto/comments.php:54
+#: ../twentyfourteen/comments.php:36 ../twentyfourteen/comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../realto/comments.php:73
+msgid "Name"
+msgstr ""
+
+#: ../realto/comments.php:80 ../realto/inc/metaboxes/demo/demo.php:239
+msgid "Email"
+msgstr ""
+
+#: ../realto/comments.php:87
+msgid "Website"
+msgstr ""
+
+#: ../realto/comments.php:94
+msgid "Leave A Comment"
+msgstr ""
+
+#: ../realto/comments.php:95
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../realto/comments.php:98
+msgid "Post Comment"
+msgstr ""
+
+#: ../realto/content-none.php:19 ../twentyfourteen/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../realto/content.php:38 ../twentyfourteen/content-aside.php:46
+#: ../twentyfourteen/content-audio.php:46
+#: ../twentyfourteen/content-gallery.php:46
+#: ../twentyfourteen/content-image.php:46
+#: ../twentyfourteen/content-link.php:46
+#: ../twentyfourteen/content-quote.php:46
+#: ../twentyfourteen/content-video.php:46 ../twentyfourteen/content.php:54
+#: ../twentyfourteen/inc/widgets.php:113 ../twentyfourteen/inc/widgets.php:158
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../realto/content.php:41 ../twentyfourteen/content-aside.php:48
+#: ../twentyfourteen/content-audio.php:48
+#: ../twentyfourteen/content-gallery.php:48
+#: ../twentyfourteen/content-image.php:48
+#: ../twentyfourteen/content-link.php:48 ../twentyfourteen/content-page.php:22
+#: ../twentyfourteen/content-quote.php:48
+#: ../twentyfourteen/content-video.php:48 ../twentyfourteen/content.php:56
+#: ../twentyfourteen/image.php:54
+msgid "Pages:"
+msgstr ""
+
+#: ../realto/functions.php:91 ../twentyfourteen/functions.php:82
+msgid "Top primary menu"
+msgstr ""
+
+#: ../realto/functions.php:196 ../twentyfourteen/functions.php:499
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../realto/functions.php:303
+msgid "LinkedIn"
+msgstr ""
+
+#: ../realto/functions.php:304
+msgid "Twitter"
+msgstr ""
+
+#: ../realto/functions.php:306
+msgid "Phone"
+msgstr ""
+
+#: ../realto/header.php:83
+msgid "Define your site primary menu"
+msgstr ""
+
+#: ../realto/property-none.php:16
+#, php-format
+msgid ""
+"Ready to list your first property? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../realto/property-searchgrid.php:48 ../realto/property-searchlist.php:48
+#: ../realto/single-property.php:83 ../realto/taxonomy-features.php:70
+#: ../realto/taxonomy-location.php:70 ../realto/taxonomy-property-type.php:70
+#: ../realto/realto/homepage.php:203
+#: ../realto/realto/homepage_revolution.php:214
+#: ../realto/realto/homepage_video.php:212
+#: ../realto/realto/property-grid-layout-1.php:103
+#: ../realto/realto/property-grid-layout-2.php:103
+#: ../realto/realto/property-list-layout-1.php:103
+#: ../realto/realto/property-list-layout-2.php:103
+msgid "sqft"
+msgstr ""
+
+#: ../realto/search.php:21 ../twentyfourteen/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../realto/single-property.php:112
+msgid "Property Description"
+msgstr ""
+
+#: ../realto/tag.php:21 ../twentyfourteen/tag.php:22
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../realto/taxonomy-features.php:18
+#, php-format
+msgid "Feature: %s"
+msgstr ""
+
+#: ../realto/taxonomy-location.php:18
+#, php-format
+msgid "Location: %s"
+msgstr ""
+
+#: ../realto/taxonomy-property-type.php:18
+#, php-format
+msgid "Property Type: %s"
+msgstr ""
+
+#: ../realto/admin/classes/class.options_machine.php:556
+msgid "Last Backup : "
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:71
+msgid "Select Revolution Slider"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:79
+msgid "Select an Slider"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:98
+msgid "IDX Shortcode"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:101
+msgid "Paste IDX shortcode here"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:155
+msgid "Homepage"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:158
+msgid "Add this post in homepage carousel"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:181
+msgid ""
+"<strong>Note:</strong>Do not upload any image if you do not want to show "
+"image slidershow"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:219
+msgid "Video Position"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:225
+msgid "Top"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:226
+msgid "Bottom"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:247
+msgid "No currency symbols or thousands separators"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:268
+msgid "Period"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:274
+msgid "none"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:275
+msgid "per-Day"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:276
+msgid "per Week"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:277
+msgid "per Month"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:278
+msgid "per Year"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:293
+msgid "Listing price is required"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:311
+msgid "Square feet"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:319
+msgid "Bedrooms"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:335
+msgid "Barhrooms"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:351
+msgid "Parking"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:359
+msgid "Neighborhood"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:368
+msgid "Built in"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:390
+msgid "Google Maps Full Address"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:393
+msgid ""
+"Paste full address for google maps location. Ex: Miami Beach Collins Ave "
+"1220 <br /><strong>Note:</strong> This address will use to search property"
+msgstr ""
+
+#: ../realto/inc/metaboxes.php:412
+msgid "Upload Documents"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:12
+msgid "Properties"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:13
+msgid "Property"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:14
+msgid "Add New"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:15
+msgid "Add New Property"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:16
+msgid "Edit Property"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:17
+msgid "New Property"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:18
+msgid "All Properties"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:19
+msgid "View Property"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:20
+msgid "Search Properties"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:21
+msgid "No Properties Found"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:22
+msgid "No Properties found in trash."
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:55
+msgid "Locations"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:56
+#: ../realto/inc/metaboxes/demo/map.php:19
+msgid "Location"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:57
+msgid "Search Locations"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:58
+msgid "Popular Locations"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:59
+msgid "All Locations"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:60
+msgid "Edit Location"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:61
+msgid "Update Location"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:62
+msgid "Add New Location"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:63
+msgid "New Location Name"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:64
+msgid "Separate Locations With Commas"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:65
+msgid "Add or Remove Locations"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:66
+msgid "Choose From Most Used Locations"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:67
+#: ../realto/inc/property-post-type.php:99
+#: ../realto/inc/property-post-type.php:131
+msgid "Parent Location"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:87
+msgid "Property Types"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:88
+msgid "Property Type"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:89
+msgid "Search Property Types"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:90
+msgid "Popular Property Types"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:91
+msgid "All Property Types"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:92
+msgid "Edit Property Type"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:93
+msgid "Update Property Type"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:94
+msgid "Add New Property Type"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:95
+msgid "New Property Type Name"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:96
+msgid "Separate Property Types With Commas"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:97
+msgid "Add or Remove Property Types"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:98
+msgid "Choose From Most Used Property Types"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:119
+msgid "Features"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:120
+msgid "Feature"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:121
+msgid "Search Features"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:122
+msgid "Popular Features"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:123
+msgid "All Features"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:124
+msgid "Edit Feature"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:125
+msgid "Update Feature"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:126
+msgid "Add New Feature"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:127
+msgid "New Feature"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:128
+msgid "Separate Features With Commas"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:129
+msgid "Add or Remove Features"
+msgstr ""
+
+#: ../realto/inc/property-post-type.php:130
+msgid "Choose From Most Used Features"
+msgstr ""
+
+#: ../realto/inc/sidebar.php:16
+msgid "These are widgets for the Blog page."
+msgstr ""
+
+#: ../realto/inc/sidebar.php:27
+msgid "These are widgets for the Property page."
+msgstr ""
+
+#: ../realto/inc/sidebar.php:37
+msgid "These are widgets for the IDX Homepage."
+msgstr ""
+
+#: ../realto/inc/sidebar.php:47
+msgid "These are widgets for the IDX Pages."
+msgstr ""
+
+#: ../realto/inc/sidebar.php:57
+msgid "These are widgets for the Page."
+msgstr ""
+
+#: ../realto/inc/sidebar.php:69
+msgid "These are widgets for the Footer column one."
+msgstr ""
+
+#: ../realto/inc/sidebar.php:80
+msgid "These are widgets for the Footer column two."
+msgstr ""
+
+#: ../realto/inc/sidebar.php:91
+msgid "These are widgets for the Footer column three."
+msgstr ""
+
+#: ../realto/inc/sidebar.php:102
+msgid "These are widgets for the Footer column four."
+msgstr ""
+
+#: ../realto/inc/template-tags.php:64
+#: ../twentyfourteen/inc/template-tags.php:47
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../realto/inc/template-tags.php:65
+#: ../twentyfourteen/inc/template-tags.php:48
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../realto/inc/template-tags.php:106
+#: ../twentyfourteen/inc/template-tags.php:88
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr ""
+
+#: ../realto/inc/template-tags.php:108
+msgid "<span class=\"realto-prev meta-nav\">Previous Post</span>"
+msgstr ""
+
+#: ../realto/inc/template-tags.php:109
+msgid "<span class=\"realto-next meta-nav\">Next Post</span>"
+msgstr ""
+
+#: ../realto/inc/template-tags.php:128
+#: ../twentyfourteen/inc/template-tags.php:110
+msgid "Sticky"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/all-custom-post-types.php:20
+msgid "Personal Information"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/all-custom-post-types.php:25
+msgid "Full name"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/better-include.php:16
+#: ../realto/inc/metaboxes/demo/include-by-ID-or-page-template.php:8
+msgid "Meta Box Title"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/better-include.php:19
+#: ../realto/inc/metaboxes/demo/include-by-ID-or-page-template.php:14
+msgid "Your images"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/date-time-js-options.php:11
+msgid "Date Time Picker With JS Options"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/date-time-js-options.php:15
+msgid "Date"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/date-time-js-options.php:21
+#: ../realto/inc/metaboxes/demo/demo.php:184
+msgid "(yyyy-mm-dd)"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/date-time-js-options.php:23
+msgid "Select Date"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/date-time-js-options.php:24
+#: ../realto/inc/metaboxes/demo/demo.php:185
+msgid "yy-mm-dd"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/date-time-js-options.php:30
+msgid "Datetime"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/date-time-js-options.php:41
+msgid "Time"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:34
+msgid "Standard Fields"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:53
+msgid "Text"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:57
+msgid "Text description"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:60
+msgid "Default text value"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:66
+msgid "Checkbox"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:74
+msgid "Radio"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:80
+#: ../realto/inc/metaboxes/demo/demo.php:91
+#: ../realto/inc/metaboxes/demo/demo.php:233
+#: ../realto/inc/metaboxes/demo/demo.php:278
+msgid "Label1"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:81
+#: ../realto/inc/metaboxes/demo/demo.php:92
+#: ../realto/inc/metaboxes/demo/demo.php:234
+#: ../realto/inc/metaboxes/demo/demo.php:279
+msgid "Label2"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:86
+#: ../realto/inc/metaboxes/demo/demo.php:273
+msgid "Select"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:97
+#: ../realto/inc/metaboxes/demo/demo.php:284
+msgid "Select an Item"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:104
+msgid "Hidden value"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:108
+msgid "Password"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:114
+msgid "Textarea"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:115
+msgid "Textarea description"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:132
+msgid "Password is required"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:133
+msgid "Password must be at least 7 characters"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:141
+msgid "Advanced Fields"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:147
+msgid "Heading"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:152
+#: ../twentyfourteen/inc/customizer.php:52
+msgid "Slider"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:157
+msgid "$"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:158
+msgid " USD"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:169
+msgid "Number"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:178
+msgid "Date picker"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:193
+msgid "Datetime picker"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:207
+msgid "Time picker"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:222
+msgid "Color picker"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:228
+msgid "Checkbox list"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:241
+msgid "Email description"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:247
+msgid "Range"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:249
+msgid "Range description"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:258
+msgid "URL"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:260
+msgid "URL description"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:266
+msgid "oEmbed"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:268
+msgid "oEmbed description"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:288
+msgid "Taxonomy"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:302
+msgid "Posts (Pages)"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:318
+msgid "WYSIWYG / Rich Text Editor"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:323
+msgid "WYSIWYG default value"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:339
+#: ../realto/inc/metaboxes/demo/force-delete.php:15
+msgid "File Upload"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:345
+msgid "File Advanced Upload"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:353
+#: ../realto/inc/metaboxes/demo/force-delete.php:22
+msgid "Image Upload"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:359
+#: ../realto/inc/metaboxes/demo/force-delete.php:28
+msgid "Thickbox Image Upload"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:365
+#: ../realto/inc/metaboxes/demo/force-delete.php:35
+msgid "Plupload Image Upload"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/demo.php:372
+msgid "Image Advanced Upload"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/force-delete.php:11
+msgid "Test Meta Box"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/map.php:9
+msgid "Google Map"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/map.php:13
+msgid "Address"
+msgstr ""
+
+#: ../realto/inc/metaboxes/demo/map.php:15
+msgid "Hanoi, Vietnam"
+msgstr ""
+
+#: ../realto/inc/metaboxes/inc/classes/meta-box.php:252
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ../realto/inc/metaboxes/inc/classes/meta-box.php:426
+msgid "+"
+msgstr ""
+
+#: ../realto/inc/metaboxes/inc/classes/meta-box.php:448
+msgid "&#8211;"
+msgstr ""
+
+#: ../realto/inc/metaboxes/inc/fields/button.php:36
+msgid "Click me"
+msgstr ""
+
+#: ../realto/inc/metaboxes/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: ../realto/inc/metaboxes/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ../realto/inc/metaboxes/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ../realto/inc/metaboxes/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ../realto/inc/metaboxes/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: ../realto/inc/metaboxes/inc/fields/image.php:64
+msgid "Order saved"
+msgstr ""
+
+#: ../realto/inc/metaboxes/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: ../realto/inc/metaboxes/inc/fields/post.php:54
+msgid "Post"
+msgstr ""
+
+#: ../realto/inc/metaboxes/inc/fields/post.php:68
+#: ../realto/inc/metaboxes/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:164
+#: ../realto/inc/tgm-plugin-activation/tgm-plugin-activator.php:79
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:165
+#: ../realto/inc/tgm-plugin-activation/tgm-plugin-activator.php:80
+msgid "Install Plugins"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:166
+#: ../realto/inc/tgm-plugin-activation/tgm-plugin-activator.php:81
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:178
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:490
+#: ../realto/inc/tgm-plugin-activation/tgm-plugin-activator.php:93
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:179
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1846
+#: ../realto/inc/tgm-plugin-activation/tgm-plugin-activator.php:94
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:517
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/tgm-plugin-activator.php:82
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../realto/inc/tgm-plugin-activation/tgm-plugin-activator.php:95
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../realto/inc/widgets/nt-about-site.php:21
+msgid "realto: Footer About Site"
+msgstr ""
+
+#: ../realto/inc/widgets/nt-about-site.php:22
+msgid "Display info about your website in footer first widget"
+msgstr ""
+
+#: ../realto/inc/widgets/nt-address.php:21
+msgid "realto: Footer Address"
+msgstr ""
+
+#: ../realto/inc/widgets/nt-address.php:22
+msgid "Display address in footer"
+msgstr ""
+
+#: ../realto/inc/widgets/nt-flickr-feeds.php:20
+msgid "realto: Footer Flickr"
+msgstr ""
+
+#: ../realto/inc/widgets/nt-flickr-feeds.php:21
+msgid "Show photos from Flickr."
+msgstr ""
+
+#: ../realto/inc/widgets/nt-most-commented.php:21
+msgid "realto: Most Commented Posts"
+msgstr ""
+
+#: ../realto/inc/widgets/nt-most-commented.php:22
+msgid "Show a list of the most commented posts with comments count"
+msgstr ""
+
+#: ../realto/inc/widgets/nt-property-search.php:21
+msgid "realto: Property Search"
+msgstr ""
+
+#: ../realto/inc/widgets/nt-property-search.php:22
+msgid "Widget for property search"
+msgstr ""
+
+#: ../twentyfourteen/author.php:31
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:180
+msgid "Leave a comment"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:180
+msgid "1 Comment"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:180
+msgid "% Comments"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:40
+#: ../twentyfourteen/content-audio.php:40
+#: ../twentyfourteen/content-gallery.php:40
+#: ../twentyfourteen/content-image.php:40
+#: ../twentyfourteen/content-link.php:40 ../twentyfourteen/content-page.php:28
+#: ../twentyfourteen/content-quote.php:40
+#: ../twentyfourteen/content-video.php:40 ../twentyfourteen/content.php:42
+#: ../twentyfourteen/image.php:34
+#: ../twentyfourteen/page-templates/contributors.php:35
+msgid "Edit"
+msgstr ""
+
+#: ../twentyfourteen/footer.php:21
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../twentyfourteen/footer.php:21
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:83
+msgid "Secondary menu in left sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:174
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:176
+msgid "Main sidebar that appears on the left."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:183
+msgid "Content Sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:185
+msgid "Additional sidebar that appears on the right."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:192
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:194
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:259
+msgid "Previous"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:260
+msgid "Next"
+msgstr ""
+
+#: ../twentyfourteen/image.php:65
+msgid "Previous Image"
+msgstr ""
+
+#: ../twentyfourteen/image.php:66
+msgid "Next Image"
+msgstr ""
+
+#: ../twentyfourteen/inc/back-compat.php:41
+#: ../twentyfourteen/inc/back-compat.php:53
+#: ../twentyfourteen/inc/back-compat.php:68
+#, php-format
+msgid ""
+"Twenty Fourteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:19
+#: ../twentyfourteen/inc/customizer.php:20
+msgid "Background may only be visible on wide screens."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:28
+msgid "Site Title Color"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:31
+msgid "Display Site Title &amp; Tagline"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:35
+#: ../twentyfourteen/inc/featured-content.php:408
+msgid "Featured Content"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:36
+#, php-format
+msgid ""
+"Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the "
+"tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:47
+msgid "Layout"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:51
+msgid "Grid"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:98
+msgid "Twenty Fourteen"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:101
+#, php-format
+msgid ""
+"The home page features your choice of up to 6 posts prominently displayed in "
+"a grid or slider, controlled by the <a href=\"%1$s\">featured</a> tag; you "
+"can change the tag and layout in <a href=\"%2$s\">Appearance &rarr; "
+"Customize</a>. If no posts match the tag, <a href=\"%3$s\">sticky posts</a> "
+"will be displayed instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:102
+#, php-format
+msgid ""
+"Enhance your site design by using <a href=\"%s\">Featured Images</a> for "
+"posts you&rsquo;d like to stand out (also known as post thumbnails). This "
+"allows you to associate an image with your post without inserting it. Twenty "
+"Fourteen uses featured images for posts and pages&mdash;above the "
+"title&mdash;and in the Featured Content area on the home page."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:103
+#, php-format
+msgid ""
+"For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s"
+"\">Twenty Fourteen documentation</a>."
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:409
+#, php-format
+msgid ""
+"Use the <a href=\"%1$s\">\"featured\" tag</a> to feature your posts. You can "
+"change this to a tag of your choice; if no posts match the tag, <a href="
+"\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:428
+msgid "Tag Name"
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:433
+msgid "Don&rsquo;t display tag on front end."
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:90
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:91
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:44
+msgid "Twenty Fourteen Ephemera"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:46
+msgid ""
+"Use this widget to list your recent Aside, Quote, Video, Audio, Image, "
+"Gallery, and Link posts"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:53
+msgid "Asides"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:54
+msgid "Images"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:55
+msgid "Videos"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:56
+msgid "Audio"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:57
+msgid "Quotes"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:58
+msgid "Links"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:59
+msgid "Galleries"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:189
+#, php-format
+msgid "More %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
